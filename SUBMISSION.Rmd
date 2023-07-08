@@ -1,0 +1,40 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+[//]: # (YOUR-NAME)
+
+# Description
+
+Write a short, high-level description of how your submission works. Include information on the logic behind your code and list its dependencies.
+
+# Usage
+
+Explain how to use your code using at least one example. You can insert a code snippet like so:
+
+```{r}
+library("ggplot2")
+```
+
+You should include both the input and output of your code in your submission.
+
+**Note that if you are uncomfortable with programming or your code does not work, you are still welcome to submit only a description provided that it is reproducible. **
+
+[//]: # (DELETE THE FOLLOWING SECTIONS BEFORE SUBMITTING)
+
+# Design Guidelines
+While you are welcome to experiment with various methods and packages in your submission, please not that the end result should be consistent with the visual identity of the Rbanism community. As such, you should take a look at [this](https://drive.google.com/file/d/1KhrMDa7Mii8bVRnkOgBk8a5hYDyXRydY/view) presentation before getting started. In general, the logo should be composed of three regular polygons, which are superimposed on a
+three-level spider web graph. similar to a [radar chart](https://en.wikipedia.org/wiki/Radar_chart). The specific rules for generating the logo are:
+
+1. Community members are encouraged to interact with the community and each other through our events. Challenges and hackathons are represented by a single orange (#F7931E) polygon, lectures and workshops by a teal (#00A99D) one, and social events using a purple (#93278F). Therefore, a hackathon with a social activity at the end would be represented by an orange and a teal polygon, whereas a lecture and a challenge by a teal and and orange one.
+2. Draw at most three concentric regular hexagons on the underlying graph, according to the previous bullet point. The vertices of these hexagons represent the members of the Rbanism community.
+3. Randomly add up to four vertices to each hexagon. These vertices can be positioned at different levels in the underlying graph, and thus may distort the original polygons.
+4. Randomly adjust the six original vertices of each polygon such that no two of its edges lie on the same level of the underlying graph.
+5. Ensure that none of the resulting polygons intersects itself or overlaps its own perimeter.
+6. Ensure that at least one polygon edge lies on the third level of the underlying graph.
+7. Hide the underlying graph.
+
+You are free to experiment with the opacity and stroke width of the resulting polygons, as well as the corresponding vertex size. However, please note that it should be uniform and all vertices should be colored white.
+
+[//]: # (You can add any additional sections to your submission, as deemed necessary.)
