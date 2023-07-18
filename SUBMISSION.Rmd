@@ -3,7 +3,7 @@ output:
   pdf_document: default
   html_document: default
 ---
-[//]: # (YOUR-NAME)
+[//]: # (Dimitris Mantas)
 
 # Description
 
