@@ -67,6 +67,9 @@ project, and it should be set up correctly.
 
 # Submitting a Logo Generator
 
+A [tutorial](https://youtu.be/azR3VRPhQLM) on how to make a submission is to our logo generator challenge is also
+available on YouTube.
+
 ## Prerequisites
 
 It is assumed that you have already [forked this repository](#forking-this-repository).
@@ -95,7 +98,7 @@ already be included in `submission.Rmd`. However, you should
 from [Claudiu Forgaci](https://github.com/cforgaci), assign the PR to yourself, and label it using the provided
 "submission" label.
 
-[//]: # (TODO - Create a good example pull request.)
+For an example submission, please take a look at [this](https://github.com/Rbanism/logo/pull/1) PR.
 
 # Proposing Changes to the Source Code
 
