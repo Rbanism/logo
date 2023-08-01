@@ -83,6 +83,9 @@ other file.
 
 ## Committing & Pushing the Submission
 
+***UPDATE***: You should make a copy of `SUBMISSION.Rmd`, rename it to `SUBMISSION-YourNameYourSurname.Rmd`, and commit
+all changes to that file.
+
 You can confirm your submission locally by staging and committing your version of `submission.Rmd`. You can do this by
 executing `git add submission.Rmd`, `git commit -m "YOUR-MESSAGE"`, and `git push` in the Terminal tab this order. You
 ought to write a descriptive commit message in either title or sentence case, preferably using fifty characters or
